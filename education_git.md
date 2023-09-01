@@ -14,3 +14,6 @@
 
 > git status - показать состояние репозитория (отслеживаемые, изменённые, новые файлы)
 
+>Все команды можно посмотреть по ссылке
+
+<https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lly72gf7h7592799650#stk-11>
