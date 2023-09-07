@@ -27,7 +27,7 @@
 
 >: git branch branch_name - создать новую ветку
 
->: git branch -d branch_name - удалить ветку
+>: git branch -**d** branch_name - удалить ветку
 
 >: git checkout checkout_name - перейти на другую ветку
 
