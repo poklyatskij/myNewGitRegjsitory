@@ -1,12 +1,23 @@
+# Инструкция по Git
 
-# Работа с изображениями в Git
+## Базовые команды
 
-## Для работы с изображениями необходимо добавить в файл .gitignore, а в файле с язиком разметки Markdown вписать следующую конструкцию:
-![gitlogo.jpeg](gitlogo.jpeg)
+* git init
+* git commit -m
+* git status
+* git branch 
+* git branch branch_name
+* git branch -d branch_name 
+* git checkout checkout_name 
+* git merge 
+* git log
+* git log --graph
+* git add изменению
+* git commit -am 
 
-## Чтобы решить конфликт, необходимо профиксить конфликт, выбрать одно из действий указанные в самом конфликте.
+### Консольные команды
 
-![conflict.png](conflict.png)
+>: git init - создать новый проект в текущей директории
 
 >: git commit **-m** зафиксировать в коммите проиндексированные изменения (закоментировать)
 
@@ -33,3 +44,4 @@
 >: Все команды можно посмотреть по ссылке
 
 <https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lly72gf7h7592799650#stk-11>
+
