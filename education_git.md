@@ -8,28 +8,3 @@
 
 ![conflict.png](conflict.png)
 
->: git commit **-m** зафиксировать в коммите проиндексированные изменения (закоментировать)
-
->: git status - показать состояние репозитория (отслеживаемые, изменённые, новые файлы)
-
->: git branch - проверить на какой ветки находишься
-
->: git branch branch_name - создать новую ветку
-
->: git branch -**d** branch_name - удалить ветку
-
->: git checkout checkout_name - перейти на другую ветку
-
->: git merge - произвести слияние веток
-
->: git log - проверить сколько созданно commit
-
->: git log--graph - увидеть log commit с визуализацией
-
->: git add - добавить файл к следующему изменению
-
->: git commit -am создать **commit** сразу если раннее уже были созданны файлы не *ветки*, можно не использовать **add**
-
->: Все команды можно посмотреть по ссылке
-
-<https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=lly72gf7h7592799650#stk-11>
